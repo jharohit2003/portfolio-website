@@ -64,3 +64,7 @@ git clone https://github.com/jharohit2003/portfolio-website.git
 open index.html   # (MacOS)
 start index.html  # (Windows)
 
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
+
+
