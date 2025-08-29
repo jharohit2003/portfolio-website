@@ -48,7 +48,7 @@ Built with **HTML, CSS, JavaScript**, and enhanced with libraries like **Typed.j
 ---
 
 ## 📬 Contact
-- **Portfolio:** [Portfolio Website](portfolio-website-blush-three-45.vercel.app)  
+- **Portfolio:** [Portfolio Website](https://portfolio-website-blush-three-45.vercel.app/)  
 - **LinkedIn:** [Rohit Jha](https://www.linkedin.com/in/rohit-jha-bb4916249)  
 - **GitHub:** [jharohit2003](https://github.com/jharohit2003)  
 - **Email:** jharohit2222@gmail.com  
